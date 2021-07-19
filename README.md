@@ -21,8 +21,8 @@ Let's take an image of goldfish and see how it works <br/>
 <br/>
 <br/>
 
-# How about grayscale image? 
-RGB (3 channels) & grayscale (1 channel). Both work fine <br/>
+# How about outdoor scene image? 
+Both RGB (3 channels) & grayscale (1 channel) work fine <br/>
 <br/>
 <img src="img/outdoor.png" width="900">
 
