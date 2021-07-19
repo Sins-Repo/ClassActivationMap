@@ -14,8 +14,8 @@ You can visualize it with class activation map. A heatmap of *'Class Activation'
 <br/>
 
 # Warm-up
-Let's take an image of goldfish and see how it works
-<img src="img/goldfish.png" width="250">
+Let's take an image of goldfish and see how it works <br/>
+<img src="img/goldfish.png" width="400">
 
 <br/>
 <br/>
