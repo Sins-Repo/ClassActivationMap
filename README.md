@@ -30,7 +30,8 @@ Both RGB (3 channels) & grayscale (1 channel) work fine <br/>
 <br/>
 
 # How about indoor scene image?
-Surprise ✨
+Surprise ✨ <br/>
+<br/>
 <img src="img/indoor.png" width="500">
 
 <br/>
