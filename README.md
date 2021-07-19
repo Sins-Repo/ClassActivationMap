@@ -15,6 +15,7 @@ You can visualize it with class activation map. A heatmap of *'Class Activation'
 
 # Warm-up
 Let's take an image of goldfish and see how it works <br/>
+Prediction: Goldfish <br/>
 <br/>
 <img src="img/goldfish.png" width="500">
 
@@ -23,6 +24,7 @@ Let's take an image of goldfish and see how it works <br/>
 
 # How about outdoor scene image? 
 Both RGB (3 channels) & grayscale (1 channel) work fine <br/>
+Prediction: Alp <br/>
 <br/>
 <img src="img/outdoor.png" width="900">
 
@@ -31,6 +33,7 @@ Both RGB (3 channels) & grayscale (1 channel) work fine <br/>
 
 # How about indoor scene image?
 Surprise ✨ <br/>
+Prediction: Home Theatre <br/>
 <br/>
 <img src="img/indoor.png" width="500">
 
