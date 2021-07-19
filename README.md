@@ -1,2 +1,3 @@
-# ClassActivationMap
-To get insights from Convolutional Neural Network (CNN). A heatmap of "Class Activation" is generated over the input image to look for specific features ......
+# Class Activation Map
+Have you ever wondered what a CNN considered while making predictions? <br/>
+You can visualize it with class activation map. A heatmap of *'Class Activation'* is generated over the input image to look for specific features, features that may influence the final prediction of the model.
