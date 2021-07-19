@@ -15,7 +15,8 @@ You can visualize it with class activation map. A heatmap of *'Class Activation'
 
 # Warm-up
 Let's take an image of goldfish and see how it works <br/>
-<img src="img/goldfish.png" width="500" margin="10px">
+<br/>
+<img src="img/goldfish.png" width="500">
 
 <br/>
 <br/>
