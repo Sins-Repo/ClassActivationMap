@@ -47,3 +47,6 @@ Prediction: Home Theatre <br/>
 
 <br/>
 <br/>
+
+# Reference
+* Learning Deep Features for Discriminative Localization
