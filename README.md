@@ -29,6 +29,13 @@ Both RGB (3 channels) & grayscale (1 channel) work fine <br/>
 <br/>
 <br/>
 
+# How about indoor scene image?
+Surprise ✨
+<img src="img/indoor.png" width="500">
+
+<br/>
+<br/>
+
 # Key Takeaway
 * If you plan to use your own pre-trained model / pre-trained weights for this example. It just doesn't work
 * It works with ImageNet weights only and expects 1000 target classes (which I've placed a short comment in the code)
