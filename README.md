@@ -42,8 +42,8 @@ Prediction: Home Theatre <br/>
 
 # Key Takeaway
 * If you plan to use your own pre-trained model / pre-trained weights, says 300+ classes, with this example. It doesn't work
-* (samples, 1000) is expected in this example, which I've placed a short comment in the code. 1000 refers to the number of classes (ImageNet) 
-* For more information, kinly refer to the documentation for `decode_predictions`
+* `(samples, 1000)` is expected in this example, which I've placed a short comment in the code. 1000 refers to the number of classes (ImageNet) 
+* For more information, kindly refer to the documentation for `decode_predictions`
 
 <br/>
 <br/>
