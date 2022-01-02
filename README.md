@@ -1,6 +1,6 @@
 # Class Activation Map
-Have you ever wondered what a Convolutional Neural Network (CNN) considered while making predictions? <br/>
-You can visualize it with class activation map. A heatmap of *'Class Activation'* is generated over the input image to look for specific features, features that may eventually influence the final prediction of the model.
+Have you ever wondered what affects the decision of Convolutional Neural Network (CNN)? <br/>
+You can visualize it with class activation map. A heatmap of *'Class Activation'* is generated over the input image to look for specific features, features that may eventually influence the final prediction of the model. Newer version of activation map can be found in another [repo](https://github.com/Sins-Repo/Grad-CAM)
 
 <br/>
 <br/>
